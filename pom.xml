@@ -20,7 +20,7 @@
         </repository>
     </distributionManagement>
 
-    <name>com.zerodhatech.kiteconnect:kiteconnect</name>
+    <name>in.tradebullz:kiteconnect</name>
     <description>Kite Connect is a set of REST-like APIs that expose many capabilities required to build a complete investment and trading platform.</description>
     <url>https://github.com/rainmattertech/kiteconnectjava</url>
 
